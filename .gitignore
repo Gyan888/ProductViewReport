@@ -1,0 +1,9 @@
+node_modules/**
+*.pyc
+package-lock.json
+server.err.log
+server.out.log
+.idea/**
+..git/**
+*.log
+.vscode/**
